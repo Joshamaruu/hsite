@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(12 , 95  ,23);
+}
+
+
+img {
+    margin-left: 50px;
+    height:200px;
+    width:250px;
+    margin-bottom: 20px;
+}
+
+img:hover {
+    opacity: 0.8;
+}
+
+
+.c {
+    display:inline-block;
+    align-items: center;
+    justify-content:center;
+}

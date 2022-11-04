@@ -1,0 +1,41 @@
+ul {
+    margin: none;
+}
+
+
+li {
+ list-style: none;
+ margin-right: 25px;
+text-align: left;
+margin-top: 15px;
+
+}
+
+.w {
+    display: inline-block;
+    align-items: left;
+    justify-content: left;
+    background-color: black;
+    padding:0px 0px;
+    margin-left: 0px;
+    
+    text-align: center;
+    position: absolute;
+}
+
+a {
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    
+}
+
+
+body {
+    background-color: rgb(12, 95, 23);
+}
+
+
+.x {
+    margin-left: 20px;
+}
